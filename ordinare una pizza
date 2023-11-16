@@ -1,0 +1,42 @@
+TEAM: 6
+PROBLEMA: ORDINARE UNA PIZZA 
+ALGORITMO:
+
+1 - Apro il browser;
+1.1 - Cerco una pizzeria a domicio nella mia città;
+2 - Scorro l'elenco delle pizzerie a domicilio;
+3.a - ? la pizzeria a 5 stelle di valutazione;
+    4 - Prendo il numero della pizzeria;
+    5 - Chiamo la pizzeria;
+    6.a - ? fanno la pizza prosciutto e funghi; 
+        7 - Ordina la pizza;
+        8 - Aspettiamo il corriere;
+        9.a - ? il corriere è arrivato;
+            10 - Prendi i soldi;
+            11 - Apro la porta;
+            12 - Consegna i soldi al corriere;
+            13 - Prendi la pizza;
+            14 - Chiudo la porta;
+            15 - Mi siedo al tavolo;
+            16.a - ? Pizza non è bollente;
+                17 - Inizio a mangiare la pizza;
+                18.a - ? Avanzano fette della pizza;
+                    19 - Prendo un piatto;
+                    19.1 - Metto la pizza nel piatto;
+                    20 - Apro il frigo;
+                    21 - Metto la pizza in frigo;
+                    22 - Butto il cartone;
+                18.b - : Butto il cartone;
+            16.b - : Aspetto che si raffreddi;
+        9.b : Aspetta ancora;
+    6.b - : riprendi a cercare;
+
+3.b - : riprendi a cercare;
+
+
+
+
+Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! 
+Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: 
+una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
+Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta! 
